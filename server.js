@@ -5,8 +5,8 @@ var _ = require('lodash');
 var cors = require('cors')
 var bodyParser = require('body-parser');
 var app = express();
-//var models = require('./models');
-//var dealers = require('./dealers');
+var models = require('./models');
+var dealers = require('./dealers');
 
 // Set static files
 app.use(express.static('dist'));

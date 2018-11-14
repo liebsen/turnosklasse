@@ -13,7 +13,7 @@ $brown: #757763;
 $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 $light-grey: #EDEDED;
-$dark-blue: #60ABC0;
+$dark-blue: #4d769f;
 
 // Update Bulma's global variables
 $family-sans-serif: "Asap", sans-serif;
@@ -25,7 +25,8 @@ $family-sans-serif: "Asap", sans-serif;
 $button-background-color: $dark-blue;
 $button-color: white;
 $button-hover-color: white;
-$button-border-width: 0;
+$button-border-width: 2px;
+$button-border-color: white;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
