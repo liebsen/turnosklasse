@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 22">
+    <defs>
+        <style>
+            .cls-1{fill:#666;font-size:22px;font-family:Ionicons}
+        </style>
+    </defs>
+    <text id="instagram" class="cls-1" transform="translate(0 19)">
+        <tspan x="0" y="0"></tspan>
+    </text>
+</svg>

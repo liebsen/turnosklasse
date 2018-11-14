@@ -1,0 +1,47 @@
+{
+  "name": "jetsbooking-webapp",
+  "version": "1.0.0",
+  "description": "An Overlemon project",
+  "author": "martin_frith <overlemonsoft@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bulma": "^0.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.11",
+    "moment": "2.20.1",
+    "moment-locales-webpack-plugin": "^1.0.7",
+    "qs": "^6.5.2",
+    "vue": "^2.5.2",
+    "vue-datepicker-local": "^1.0.19",
+    "vue-router": "^3.0.1",
+    "vue-select": "^2.5.1",
+    "vue-slider-component": "^2.8.0",
+    "vuejs-datepicker": "^1.5.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "url-loader": "^0.5.8",
+    "vue-loader": "^13.3.0",
+    "vue-style-loader": "^3.0.1",
+    "vue-template-compiler": "^2.5.2",
+    "webpack": "^3.6.0",
+    "webpack-bundle-analyzer": "^2.9.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-merge": "^4.1.0"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

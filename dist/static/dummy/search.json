@@ -1,0 +1,1085 @@
+{
+  "departure": {
+    "your_search": {
+      "executive": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 458,
+          "departure_date": "2018-12-03 11:25",
+          "arrival_date": "2018-12-03 12:35",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/AA.png",
+            "company_name": "American Airlines"
+          },
+          "aircraft": {
+            "id": "5666",
+            "brand": "Boeing",
+            "model": "777",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "Sólo 6 lugares disponibles",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        },
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "LAX",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Los Angeles",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "California",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "DFW",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "Dallas",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "Texas",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": "us"
+              },
+              "arrival_date": "2018-12-22 06:50",
+              "departure_date": "2018-12-22 09:15",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 799,
+          "departure_date": "2018-12-22 04:15",
+          "arrival_date": "2018-12-22 05:55",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/VF.png",
+            "company_name": "Ventus Flights"
+          },
+          "aircraft": {
+            "id": "13455",
+            "brand": "Cessna",
+            "model": "Citation Sovereign",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "Sólo 4 lugares disponibles",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }        
+      ],
+      "commercial": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "arrival_date": "2018-12-22 11:40",
+              "departure_date": "2018-12-22 10:35",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 622,
+          "departure_date": "2018-12-03 11:25",
+          "arrival_date": "2018-12-03 12:35",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/AA.png",
+            "company_name": "American Airlines"
+          },
+          "aircraft": {
+            "id": "721",
+            "brand": "Embraer",
+            "model": "338",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ],
+      "entire_aircraft": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "arrival_date": "2018-12-22 11:40",
+              "departure_date": "2018-12-22 10:35",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 560,
+          "departure_date": "2018-12-03 13:22",
+          "arrival_date": "2018-12-03 17:15",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/VF.png",
+            "company_name": "Ventus Flights"
+          },
+          "aircraft": {
+            "id": "13455",
+            "brand": "Cessna",
+            "model": "Citation Sovereign",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ]
+    },
+    "other_options": {
+      "executive": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "arrival_date": "2018-12-22 11:40",
+              "departure_date": "2018-12-22 10:35",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 563,
+          "departure_date": "2018-12-03 09:20",
+          "arrival_date": "2018-12-03 12:38",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/AA.png",
+            "company_name": "British Airways"
+          },
+          "aircraft": {
+            "id": "244",
+            "brand": "Airbus",
+            "model": "350",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ],
+      "commercial": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 781,
+          "departure_date": "2018-12-03 10:55",
+          "arrival_date": "2018-12-03 12:25",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/AA.png",
+            "company_name": "American Airlines"
+          },
+          "aircraft": {
+            "id": "566",
+            "brand": "Boeing",
+            "model": "737",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "Sólo 12 lugares disponibles",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ],
+      "entire_aircraft": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "arrival_date": "2018-12-29 11:40",
+              "departure_date": "2018-12-29 10:35",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 788,
+          "departure_date": "2018-12-29 07:30",
+          "arrival_date": "2018-12-29 11:15",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/VF.png",
+            "company_name": "Ventus Flights"
+          },
+          "aircraft": {
+            "id": "13455",
+            "brand": "Cessna",
+            "model": "Citation Sovereign",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "Sólo 9 lugares disponibles",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ]
+    }
+  },
+  "return": {
+    "your_search": {
+      "executive": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "arrival_date": "2018-12-22 11:40",
+              "departure_date": "2018-12-22 10:35",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 563,
+          "departure_date": "2018-12-03 09:20",
+          "arrival_date": "2018-12-03 12:38",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/AA.png",
+            "company_name": "British Airways"
+          },
+          "aircraft": {
+            "id": "244",
+            "brand": "Airbus",
+            "model": "350",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ],
+      "commercial": [],
+      "entire_aircraft": [
+        {
+          "departure": {
+            "airport": {
+              "id": "",
+              "code": "MIA",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Miami",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Florida",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "arrival": {
+            "airport": {
+              "id": "",
+              "code": "JFK",
+              "name": "",
+              "latitude": 0,
+              "longitude": 0,
+              "timezone": "America/Argentina/Buenos_Aires"
+            },
+            "city": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "state": {
+              "id": "",
+              "name": "Washington",
+              "code": ""
+            },
+            "country": {
+              "id": "",
+              "name": "",
+              "code": "us"
+            }
+          },
+          "stops": [
+            {
+              "airport": {
+                "id": "",
+                "code": "",
+                "name": "",
+                "latitude": 0,
+                "longitude": 0,
+                "timezone": "America/Argentina/Buenos_Aires"
+              },
+              "city": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "state": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "country": {
+                "id": "",
+                "name": "",
+                "code": ""
+              },
+              "arrival_date": "2018-12-29 11:40",
+              "departure_date": "2018-12-29 10:35",
+              "duration": "10h 55m"
+            }
+          ],
+          "id": "",
+          "flight_type": "",
+          "category": "",
+          "adults": 0,
+          "children": 0,
+          "infants": 0,
+          "currency": "USD",
+          "price": 560,
+          "departure_date": "2018-12-29 13:22",
+          "arrival_date": "2018-12-29 17:15",
+          "luggage_info": "",
+          "cancellation_policy": "",
+          "payment_policy": "",
+          "terms_and_conditions": "",
+          "operator": {
+            "id": "123",
+            "logo": "/static/img/operators/VF.png",
+            "company_name": "Ventus Flights"
+          },
+          "aircraft": {
+            "id": "13455",
+            "brand": "Cessna",
+            "model": "Citation Sovereign",
+            "type": "",
+            "capacity": 0,
+            "images": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "seats_available": 0,
+          "promo_message": "",
+          "catering": true,
+          "air_conditioning": true,
+          "wifi": true,
+          "toilette": true,
+          "coffee_pot": true,
+          "headset": true,
+          "satellite_phone": true,
+          "no_check_ins_included": true
+        }
+      ]
+    },
+    "other_options": {
+      "executive": [],
+      "commercial": [],
+      "entire_aircraft": []
+    }
+  }
+}
