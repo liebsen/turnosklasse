@@ -41,7 +41,7 @@
 			{
 				"code": "es",
 				"image": "/static/dummy/img/offers/1.jpg",
-				"title": "Flights to Mendoza",
+				"title": "Prestaciones de E320 Bluetec",
 				"subtitle": "25% off!",
 				"url": "/offers/vola-a-mendoza-conhasta-25-de-descuento"
 			},
@@ -49,7 +49,7 @@
 				"code": "es",
 				"image": "/static/dummy/img/offers/2.jpg",
 				"title": "Special price",
-				"subtitle": "Discounts on selected flights",
+				"subtitle": "Descuentos en usados",
 				"url": "/offers/precio-especial-descuentos-en-vuelos-seleccionados"
 			},
 			{
