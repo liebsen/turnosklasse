@@ -24,7 +24,7 @@ app.get('/mercedes-dealers/:keyword',cors(), function(req, res){
 app.get('/mercedes-models/:keyword',cors(), function(req, res){
 	var keyword = req.params.keyword.toLowerCase();
 	var results = _.filter(mercedes_models, function(item){
-	  return item.model.toLowerCase().indexOf(keyword) > -1;
+	  return item.title.toLowerCase().indexOf(keyword) > -1;
 	});
     res.setHeader('Content-Type', 'application/json');
     res.send(JSON.stringify(results));	
