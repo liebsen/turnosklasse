@@ -1,0 +1,552 @@
+[{
+	"title":"190D",
+	"vehicle_type":"auto"
+},
+{
+	"title":"190E",
+	"vehicle_type":"auto"
+},
+{
+	"title":"240D",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300CD",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300CE",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300D",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300E",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300TD",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300TE",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C220",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C230",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C240",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C250",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C280",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C300",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C320",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C32 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C36 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C43 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"C63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CL500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CL550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CL55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CL600",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CL63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CL65 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK320",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK430",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLK63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLS500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLS550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLS55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"CLS63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"260E",
+	"vehicle_type":"auto"
+},
+{
+	"title":"280CE",
+	"vehicle_type":"auto"
+},
+{
+	"title":"280E",
+	"vehicle_type":"auto"
+},
+{
+	"title":"400E",
+	"vehicle_type":"auto"
+},
+{
+	"title":"500E",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E300",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E320",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E320 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E320 CDI",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E350 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E400 Hybrid",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E420",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E430",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"E63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"G500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"G550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"G55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"G63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"GL320 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"GL320 CDI",
+	"vehicle_type":"auto"
+},
+{
+	"title":"GL350 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"GL450",
+	"vehicle_type":"auto"
+},
+{
+	"title":"GL550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"GLK350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML320",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML320 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML320 CDI",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML350 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML430",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML450 Hybrid",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"ML63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"R320 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"R320 CDI",
+	"vehicle_type":"auto"
+},
+{
+	"title":"R350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"R350 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"R500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"R63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300SD",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300SDL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300SE",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"350SD",
+	"vehicle_type":"auto"
+},
+{
+	"title":"350SDL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"380SE",
+	"vehicle_type":"auto"
+},
+{
+	"title":"380SEC",
+	"vehicle_type":"auto"
+},
+{
+	"title":"380SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"400SE",
+	"vehicle_type":"auto"
+},
+{
+	"title":"400SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"420SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"500SEC",
+	"vehicle_type":"auto"
+},
+{
+	"title":"500SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"560SEC",
+	"vehicle_type":"auto"
+},
+{
+	"title":"560SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"600SEC",
+	"vehicle_type":"auto"
+},
+{
+	"title":"600SEL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S320",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S350",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S350 Bluetec",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S400 Hybrid",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S420",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S430",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S600",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"S65 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"300SL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"380SL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"380SLC",
+	"vehicle_type":"auto"
+},
+{
+	"title":"500SL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"560SL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"600SL",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL320",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL500",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL550",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL55 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL600",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL63 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SL65 AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SLK230",
+	"vehicle_type":"auto"
+},
+{
+	"title":"SLK250",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLK280",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLK300",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLK320",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLK32 AMG",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLK350",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLK55 AMG",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLR",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"SLS AMG",
+	"vehicle_type":"comercial"
+},
+{
+	"title":"Sprinter",
+	"vehicle_type":"comercial"
+}]
