@@ -1,5 +1,5 @@
 [{
-	"nombre":"sucursal 1 auto",
+	"nombre":"sucursal 1 AUTOS",
 	"email": "sucursal1@gmail.com",
 	"direccion": "Av. Crisólogo Larralde 1635",
 	"localidad": "CABA",
@@ -9,17 +9,17 @@
 	"whatsapp": "01112311231",
 	"vehicle_types":
 	[
-		"auto",
-		"comercial"
+		"auto"
 	],
 	"service_types":
 	[
 		"servicios",
+		"reposiciones",
 		"seguros"
 	]
 },
 {
-	"nombre":"Sucursal 2 auto",
+	"nombre":"Sucursal 2 AUTOS",
 	"email": "sucursal2@gmail.com",
 	"direccion": "Chirimba 2222",
 	"localidad": "Lanús",
@@ -29,17 +29,15 @@
 	"whatsapp": "01112311231",
 	"vehicle_types":
 	[
-		"auto",
-		"comercial"
+		"auto"
 	],
 	"service_types":
 	[
-		"servicios",
-		"seguros"
+		"servicios"
 	]
 },
 {
-	"nombre":"Sucursal 3 auto",
+	"nombre":"Sucursal 3 AUTOS",
 	"email": "sucursal3@gmail.com",
 	"direccion": "Estanislao Lopez 1299",
 	"localidad": "Martinez",
@@ -49,17 +47,15 @@
 	"whatsapp": "01112311231",
 	"vehicle_types":
 	[
-		"auto",
-		"comercial"
+		"auto"
 	],
 	"service_types":
 	[
-		"servicios",
-		"reposiciones"
+		"servicios"
 	]
 },
 {
-	"nombre":"Cigue Sprinter, Vito o comercial",
+	"nombre":"Cigue Sprinter, Vito o Comerciales",
 	"email": "sucursal4@gmail.com",
 	"direccion": "Av Perón 5299",
 	"localidad": "Gerli",
@@ -69,12 +65,12 @@
 	"whatsapp": "01112314444",
 	"vehicle_types":
 	[
-		"auto",
 		"comercial"
 	],
 	"service_types":
 	[
 		"servicios",
-		"reposiciones"
+		"reposiciones",
+		"seguros"
 	]
 }]
