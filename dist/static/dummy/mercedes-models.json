@@ -512,41 +512,41 @@
 },
 {
 	"title":"SLK250",
-	"vehicle_type":"comercial"
+	"vehicle_type":"vito"
 },
 {
 	"title":"SLK280",
-	"vehicle_type":"comercial"
+	"vehicle_type":"vito"
 },
 {
 	"title":"SLK300",
-	"vehicle_type":"comercial"
+	"vehicle_type":"vito"
 },
 {
 	"title":"SLK320",
-	"vehicle_type":"comercial"
+	"vehicle_type":"vito"
 },
 {
 	"title":"SLK32 AMG",
-	"vehicle_type":"comercial"
+	"vehicle_type":"vito"
 },
 {
 	"title":"SLK350",
-	"vehicle_type":"comercial"
+	"vehicle_type":"vito"
 },
 {
 	"title":"SLK55 AMG",
-	"vehicle_type":"comercial"
+	"vehicle_type":"truck"
 },
 {
 	"title":"SLR",
-	"vehicle_type":"comercial"
+	"vehicle_type":"truck"
 },
 {
 	"title":"SLS AMG",
-	"vehicle_type":"comercial"
+	"vehicle_type":"sprinter"
 },
 {
 	"title":"Sprinter",
-	"vehicle_type":"comercial"
+	"vehicle_type":"sprinter"
 }]

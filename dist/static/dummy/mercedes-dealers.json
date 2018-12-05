@@ -1,5 +1,5 @@
 [{
-	"nombre":"sucursal 1 AUTOS",
+	"nombre":"Klasse - NUÑEZ",
 	"email": "sucursal1@gmail.com",
 	"direccion": "Av. Crisólogo Larralde 1635",
 	"localidad": "CABA",
@@ -7,37 +7,52 @@
 	"lng": "-37.88889999",
 	"telefono": "01112311231",
 	"whatsapp": "01112311231",
-	"vehicle_types":
-	[
-		"auto"
-	],
-	"service_types":
-	[
-		"servicios",
-		"reposiciones",
-		"seguros"
-	]
+	"servicios":
+	{
+		"auto": 
+		[
+			"servicios",
+			"reparacion",
+			"reposiciones-seguros",
+			"repuestos"
+		],
+		"vito": 
+		[
+			"servicios",
+			"reparacion",
+			"reposiciones-seguros",
+			"repuestos"
+		],
+		"sprinter": 
+		[
+			"repuestos"
+		]
+	}
 },
 {
-	"nombre":"Sucursal 2 AUTOS",
+	"nombre":"Klasse - DEVOTO",
 	"email": "sucursal2@gmail.com",
 	"direccion": "Chirimba 2222",
-	"localidad": "Lanús",
+	"localidad": "CABA",
 	"lat": "-58.88889999",
 	"lng": "-37.88889999",
 	"telefono": "01112311231",
 	"whatsapp": "01112311231",
-	"vehicle_types":
-	[
-		"auto"
-	],
-	"service_types":
-	[
-		"servicios"
-	]
+	"servicios":
+	{
+		"auto": 
+		[
+			"servicios",
+			"repuestos"
+		],
+		"vito": 
+		[
+			"servicios"
+		]
+	}
 },
 {
-	"nombre":"Sucursal 3 AUTOS",
+	"nombre":"Klasse - VICENTE LOPEZ",
 	"email": "sucursal3@gmail.com",
 	"direccion": "Estanislao Lopez 1299",
 	"localidad": "Martinez",
@@ -45,17 +60,19 @@
 	"lng": "-37.88889999",
 	"telefono": "01112311231",
 	"whatsapp": "01112311231",
-	"vehicle_types":
-	[
-		"auto"
-	],
-	"service_types":
-	[
-		"servicios"
-	]
+	"servicios":
+	{
+		"auto": 
+		[
+			"servicios"
+		],
+		"vito": [
+			"servicios"
+		]
+	}
 },
 {
-	"nombre":"Cigue Sprinter, Vito o Comerciales",
+	"nombre":"Klasse - ALDO BONZI",
 	"email": "sucursal4@gmail.com",
 	"direccion": "Av Perón 5299",
 	"localidad": "Gerli",
@@ -63,14 +80,26 @@
 	"lng": "-37.88889999",
 	"telefono": "01112314444",
 	"whatsapp": "01112314444",
-	"vehicle_types":
-	[
-		"comercial"
-	],
-	"service_types":
-	[
-		"servicios",
-		"reposiciones",
-		"seguros"
-	]
+	"servicios":
+	{
+		"vito": 
+		[
+			"servicios",
+			"reparacion",
+			"reposiciones-seguros",
+			"repuestos"
+		],
+		"sprinter": [
+			"servicios",
+			"reparacion",
+			"reposiciones-seguros",
+			"repuestos"
+		],
+		"truck": [
+			"servicios",
+			"reparacion",
+			"reposiciones-seguros",
+			"repuestos"
+		]
+	}
 }]

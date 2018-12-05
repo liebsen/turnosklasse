@@ -884,6 +884,40 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 @media screen and (max-width: 440px) {
+
+
+	.app__search {
+		.toggle-type {
+			margin-left: -1rem;
+			margin-right: -1rem;
+
+			.button {
+				z-index: 2;
+				min-height: 35px;
+				max-height: 35px;
+				font-size: 0.75rem!important;
+				padding-left: 0.25rem;
+				padding-right: 0.25rem;
+			}
+			.button:not(.is-white) {
+				box-shadow: inset 0 20px 0 rgba(255,255,255,0.1);
+				padding-right: 0.25rem;
+			}
+			.button:not(:first-child) {
+				border-bottom-left-radius: 0;
+				border-top-left-radius:0;
+				margin-left: -0.25rem;
+				padding-left: 0.25rem;
+				z-index: 1;
+			}
+			.button:not(:last-child) {
+				padding-right: 0.25rem;
+				border-bottom-right-radius: 0;
+				border-top-right-radius:0;
+			}
+		}
+	}
+		
 	.hero-body {
 		padding: 2rem 0.75rem!important;
 	}
