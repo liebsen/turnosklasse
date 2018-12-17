@@ -11,14 +11,12 @@
 	{
 		"auto": 
 		[
-			"servicios",
 			"reparacion",
 			"reposiciones-seguros",
 			"repuestos"
 		],
 		"vito": 
 		[
-			"servicios",
 			"reparacion",
 			"reposiciones-seguros",
 			"repuestos"
@@ -32,7 +30,7 @@
 {
 	"nombre":"Klasse - DEVOTO",
 	"email": "sucursal2@gmail.com",
-	"direccion": "Chirimba 2222",
+	"direccion": "Av. Francisco Beiro 4764, Villa Devoto, CABA",
 	"localidad": "CABA",
 	"lat": "-58.88889999",
 	"lng": "-37.88889999",
@@ -42,7 +40,7 @@
 	{
 		"auto": 
 		[
-			"servicios",
+			"reparacion",
 			"repuestos"
 		],
 		"vito": 
@@ -54,7 +52,7 @@
 {
 	"nombre":"Klasse - VICENTE LOPEZ",
 	"email": "sucursal3@gmail.com",
-	"direccion": "Estanislao Lopez 1299",
+	"direccion": "Av Libertador 1802, Vicente Lopez, Olivos",
 	"localidad": "Martinez",
 	"lat": "-58.88889999",
 	"lng": "-37.88889999",
@@ -64,17 +62,17 @@
 	{
 		"auto": 
 		[
-			"servicios"
+			"reparacion"
 		],
 		"vito": [
-			"servicios"
+			"reparacion"
 		]
 	}
 },
 {
 	"nombre":"Klasse - ALDO BONZI",
 	"email": "sucursal4@gmail.com",
-	"direccion": "Av Perón 5299",
+	"direccion": "Monseñor Bufano, 8338, Aldo Bonzi.",
 	"localidad": "Gerli",
 	"lat": "-58.88889999",
 	"lng": "-37.88889999",
@@ -84,19 +82,16 @@
 	{
 		"vito": 
 		[
-			"servicios",
 			"reparacion",
 			"reposiciones-seguros",
 			"repuestos"
 		],
 		"sprinter": [
-			"servicios",
 			"reparacion",
 			"reposiciones-seguros",
 			"repuestos"
 		],
 		"truck": [
-			"servicios",
 			"reparacion",
 			"reposiciones-seguros",
 			"repuestos"
