@@ -512,41 +512,317 @@
 },
 {
 	"title":"SLK250",
-	"vehicle_type":"vito"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLK280",
-	"vehicle_type":"vito"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLK300",
-	"vehicle_type":"vito"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLK320",
-	"vehicle_type":"vito"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLK32 AMG",
-	"vehicle_type":"vito"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLK350",
-	"vehicle_type":"vito"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLK55 AMG",
-	"vehicle_type":"truck"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLR",
-	"vehicle_type":"truck"
+	"vehicle_type":"auto"
 },
 {
 	"title":"SLS AMG",
+	"vehicle_type":"auto"
+},
+{
+	"title":"V 200 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"V 220 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"V 250 BlueTEC",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 109 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 110 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 111 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 115 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 116 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 119",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 119 BlueTEC",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 120 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 121 CDI",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 122",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 123",
+	"vehicle_type":"vito"
+},
+{
+	"title":"Vito 126",
+	"vehicle_type":"vito"
+},
+{
+	"title":"208 CDI",
 	"vehicle_type":"sprinter"
 },
 {
-	"title":"Sprinter",
+	"title":"308 CDI",
 	"vehicle_type":"sprinter"
+},
+{
+	"title":"408 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"211 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"311 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"411 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"213 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"313 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"413 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"216 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"316 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"416 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"616 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"214",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"314",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"414",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"209 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"309 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"509 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"211 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"311 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"411 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"511 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"213 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"313 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"215 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"315 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"515 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"216 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"316 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"516 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"218 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"318 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"418 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"518 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"319 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"519 CDI",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"224",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"324",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"424",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"524",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"Actros",
+	"vehicle_type":"truck"
+},
+{
+	"title":"Antos",
+	"vehicle_type":"truck"
+},
+{
+	"title":"Arocs",
+	"vehicle_type":"truck"
+},
+{
+	"title":"Atego",
+	"vehicle_type":"truck"
+},
+{
+	"title":"Axor",
+	"vehicle_type":"truck"
+},
+{
+	"title":"Econic",
+	"vehicle_type":"truck"
+},
+{
+	"title":"F-series",
+	"vehicle_type":"truck"
+},
+{
+	"title":"LP-series (cubic)",
+	"vehicle_type":"truck"
+},
+{
+	"title":"L 4500",
+	"vehicle_type":"truck"
+},
+{
+	"title":"NG",
+	"vehicle_type":"truck"
+},
+{
+	"title":"SK",
+	"vehicle_type":"truck"
+},
+{
+	"title":"TN",
+	"vehicle_type":"truck"
+},
+{
+	"title":"Kurzhauber",
+	"vehicle_type":"truck"
 }]

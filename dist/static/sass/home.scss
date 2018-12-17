@@ -521,43 +521,6 @@ input[type="checkbox"], input[type="radio"] {
 	}
 }
 
-.v-select {
-	
-	font-size: .85rem;
-	min-height: 35px;
-	
-	.selected-tag {
-		padding:0.1rem 0!important;
-		padding-left: 2rem!important;
-	}
-	.d-center {
-		white-space: nowrap;
-	}
-	.form-control {
-		width: 100%;
-		padding-left: 2.25rem!important;
-	}
-	.vs__selected-options {
-		max-height: 30px;
-	}
-	.dropdown-menu {
-		z-index: 5;
-	}
-	.dropdown-toggle {
-		width: 100%;
-		cursor: pointer!important;
-	}	
-	input {
-		cursor: pointer!important;
-	}
-	.open-indicator {
-		display: none!important;
-	}
-}
-
-.dropdown.v-select {
-	display: flex;
-}
 
 .app__search {
 	padding: 1.5em;
@@ -711,34 +674,67 @@ input[type="checkbox"], input[type="radio"] {
 
 	.v-select {
 
-		position: absolute!important;
+		position: absolute;
+		display: inline-block;
+		width: 97%;
+		top: 0.35rem;
+		height: 44px;
+
+		.form-control {
+			position: relative;
+			font-size: 13px!important;
+			left: 1.5rem;
+			top: 0.5rem;
+		}
+
+		.dropdown-menu {
+			box-shadow: none!important;
+			max-height: 300px!important;
+
+			/*
+			overflow: inherit;
+			margin-left: -0.6rem!important;
+			
+			*/
+			@extend %bubblepointer;
+
+			&:before { 
+				@extend %bubblepointerbefore;
+			}
+
+			&:after {
+				@extend %bubblepointerafter;
+			}
+		}
+
+		.vs__actions {
+		}
+
+		/*position: absolute!important;
 		top: 0.5rem;
 		left: 1rem;
 		right: 0;
 	    min-height: 2.6rem;
-		cursor: pointer;
+		cursor: pointer;*/
 		
 		* {
 			cursor: pointer;
 		}
 		
-		.vs__actions {
+		/*.vs__actions {
 			position: absolute;
 			right: 0.15rem;
 			top: 0.95rem;	
 		}
 
-		.form-control {
-			position: relative;
-			left: -1rem;
-			top: 0.65rem;
-		}
-		
-		.dropdown-menu {
+
+		*/
+
+		/*.dropdown-menu {
 			margin-left: -0.6rem!important;
 			box-shadow: none!important;
 			overflow: inherit;
-			max-height: auto!important;
+			max-height: 400px!important;
 			@extend %bubblepointer;
 
 			&:before { 
@@ -754,7 +750,7 @@ input[type="checkbox"], input[type="radio"] {
 			width: 100%;
 			border:none!important;
 			height: 3.25rem;		
-		}
+		}*/
 
 		.selected {
 			margin-left: 1.8rem;
@@ -769,6 +765,54 @@ input[type="checkbox"], input[type="radio"] {
 			display: none!important;
 		}
 	}	
+}
+
+.v-select {
+	
+	.dropdown-toggle {
+		width: 100%;
+		border: none;
+	}
+
+	.dropdown-menu {
+		min-width: 0px !important;
+	}
+
+	/*
+	font-size: .85rem;
+	min-height: 35px;
+	
+	.selected-tag {
+		padding:0.1rem 0!important;
+		padding-left: 2rem!important;
+	}
+	.d-center {
+		white-space: nowrap;
+	}
+	.form-control {
+		width: 100%;
+		padding-left: 2.25rem!important;
+	}
+	.vs__selected-options {
+		max-height: 30px;
+	}
+	.dropdown-menu {
+		z-index: 5;
+	}
+	.dropdown-toggle {
+		width: 100%;
+		cursor: pointer!important;
+	}	
+	input {
+		cursor: pointer!important;
+	}
+	.open-indicator {
+		display: none!important;
+	}*/
+}
+
+.dropdown.v-select {
+	display: flex;
 }
 
 .shadower {
@@ -823,8 +867,11 @@ input[type="checkbox"], input[type="radio"] {
 			min-height: 4.35rem;
 
 			h1 {
-				margin-bottom: 0!important;
+				margin-top: 0.25rem;
+				margin-bottom: 0.75rem;
+				font-weight: 700;
 				font-size: 1rem;
+				line-height: 1rem;
 			}
 			h6 {
 				margin-top: 0;
@@ -883,9 +930,13 @@ input[type="checkbox"], input[type="radio"] {
 	display: inline-block;	
 }
 
+@media screen and (min-width: 1080px) {
+	.navbar-start {
+		margin-left: 3rem;
+	}
+}
+
 @media screen and (max-width: 440px) {
-
-
 	.app__search {
 		.toggle-type {
 			margin-left: -1rem;

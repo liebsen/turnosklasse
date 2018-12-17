@@ -5,21 +5,9 @@
     "author": "klasse development team <devteam@klasse.com>",
     "lifespan" : "30 seconds",
     "announcement": {
-    	"message": "Estaremos lanzando en breve 🚗🚗🚗 mas info en <a href=https://twitter.com/search?f=tweets&vertical=default&q=klasse+turnos&src=savs target=_blank>Estado del proyecto en Twitter</a>",    
+    	"message": "En desarrollo. Mas info en <a href=https://twitter.com/search?f=tweets&vertical=default&q=klasse+turnos&src=savs target=_blank>Twitter</a>",    
     	"type": "is-success"
     },
-    "flights" : {
-		"categories": [
-			"categories_all",
-			"commercial",
-			"business_class",
-			"executive",
-			"first_class",
-			"jet",
-			"helicopter",
-			"entire_aircraft"
-		]
-	},    
 	"ads": {
 		"message":"All promotions ar valid until 9/12",
 		"collection": [
@@ -39,32 +27,28 @@
 		"message":"Promotions valid until 12/9/18",
 		"collection": [
 			{
-				"code": "es",
-				"image": "/static/dummy/img/offers/1.jpg",
-				"title": "Prestaciones de E320 Bluetec",
-				"subtitle": "25% off!",
-				"url": "/offers/vola-a-mendoza-conhasta-25-de-descuento"
+				"image": "/static/dummy/img/dealers/Sucursal_1.jpg",
+				"title": "Taller La Matanza",
+				"subtitle": "Monseñor Bufano, 8338, Aldo Bonzi.",
+				"url": "/dealers/precio-especial-descuentos-en-vuelos-seleccionados"
 			},
 			{
-				"code": "es",
-				"image": "/static/dummy/img/offers/2.jpg",
-				"title": "Special price",
-				"subtitle": "Descuentos en usados",
-				"url": "/offers/precio-especial-descuentos-en-vuelos-seleccionados"
+				"image": "/static/dummy/img/dealers/SUCURSAL_2.jpg",
+				"title": "Taller Nuñez",
+				"subtitle": "Grecia 3633, Nuñez, CABA",
+				"url": "/dealers/vola-a-mendoza-conhasta-25-de-descuento"
 			},
 			{
-				"code": "es",
-				"image": "/static/dummy/img/offers/3.jpg",
-				"title": "Special price",
-				"subtitle": "Discounts on selected flights",
-				"url": "/offers/precio-especial-descuentos-en-vuelos-seleccionados"
+				"image": "/static/dummy/img/dealers/sucursal_3.jpg",
+				"title": "Taller Devoto",
+				"subtitle": "Av. Francisco Beiro 4764, Villa devoto, caba",
+				"url": "/dealers/precio-especial-descuentos-en-vuelos-seleccionados"
 			},
 			{
-				"code": "es",
-				"image": "/static/dummy/img/offers/1.jpg",
-				"title": "Flights to Mendoza",
-				"subtitle": "25% off!",
-				"url": "/offers/vola-a-mendoza-conhasta-25-de-descuento"
+				"image": "/static/dummy/img/dealers/Sucursal_4.jpg",
+				"title": "Taller Vicente Lopez",
+				"subtitle": "Av Libertador 1802, Vicente Lopez, Olivos",
+				"url": "/dealers/vola-a-mendoza-conhasta-25-de-descuento"
 			}
 		]
 	}

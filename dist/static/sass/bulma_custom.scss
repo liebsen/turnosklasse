@@ -14,9 +14,11 @@ $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 $light-grey: #EDEDED;
 $dark-blue: #162C7A;
+$nice-blue: #009CFF;
 
 // Update Bulma's global variables
-$family-sans-serif: "Asap", sans-serif;
+//$family-sans-serif: "Josefin Sans", sans-serif;
+$family-primary:"Asap";
 //$grey-dark: $brown;
 //$grey-light: $beige-light;
 //$primary: $purple;
@@ -30,6 +32,8 @@ $button-border-color: white;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
+$navbar-tab-active-border-bottom-color: $nice-blue;
+$navbar-tab-active-color: $nice-blue;
 $navbar-height: 3.5rem;
 $navbar-item-img-max-height: 3rem;
 $navbar-background-color: black;
@@ -40,7 +44,7 @@ $navbar-dropdown-item-hover-color: $beige-light;
 $navbar-dropdown-arrow: white;
 $navbar-dropdown-background-color: $dark-blue;
 // Update some of Bulma's component variables
-$body-background-color: $light-grey;
+//$body-background-color: 'white';
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
