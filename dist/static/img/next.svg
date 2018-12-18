@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="13px" viewBox="0 0 7 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>next</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="diseños" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Formulario-1--B" transform="translate(-727.000000, -534.000000)" fill="#FFFFFF">
+            <g id="step1-complete" transform="translate(273.000000, 215.000000)">
+                <g id="Group" transform="translate(0.000000, 295.000000)">
+                    <g id="button" transform="translate(337.000000, 0.000000)">
+                        <path d="M119.892002,33.3887498 L114.611661,28.1082451 C114.275749,27.7723326 114.275749,27.2278319 114.611661,26.8920839 C114.947409,26.556336 115.49191,26.556336 115.827823,26.8920839 L120.5,31.5644259 L125.172177,26.8922484 C125.507925,26.5565005 126.052591,26.5565005 126.388339,26.8922484 C126.724251,27.2279964 126.724251,27.7724971 126.388339,28.1084096 L121.107834,33.3889143 C120.940207,33.5565416 120.720103,33.640273 120.5,33.640273 C120.279897,33.640273 120.059793,33.5563771 119.892002,33.3887498 Z" id="next" transform="translate(120.500000, 30.140273) rotate(-90.000000) translate(-120.500000, -30.140273) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

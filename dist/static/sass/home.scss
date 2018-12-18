@@ -586,11 +586,14 @@ input[type="checkbox"], input[type="radio"] {
 		min-height: 44px;
 		
 
-		input[type=text] {
+		input[type=text],
+		input[type=email],
+		input[type=phone] {
 			border:none;
 			width: 100%;
 			background-color: transparent;
 		}
+		
 		.icon {
 			max-width: 1rem;
 			position: relative;
