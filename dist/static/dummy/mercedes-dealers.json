@@ -1,5 +1,7 @@
 [{
+	"slug":"klasse-nunez",
 	"nombre":"Klasse - NUÑEZ",
+	"imagen": "/static/dummy/img/dealers/SUCURSAL_2.jpg",
 	"email": "sucursal1@gmail.com",
 	"direccion": "Grecia 3633, Nuñez",
 	"localidad": "CABA",
@@ -39,7 +41,9 @@
 	}
 },
 {
+	"slug":"klasse-devoto",
 	"nombre":"Klasse - DEVOTO",
+	"imagen": "/static/dummy/img/dealers/sucursal_3.jpg",
 	"email": "sucursal2@gmail.com",
 	"direccion": "Av. Francisco Beiro 4764, Villa Devoto",
 	"localidad": "CABA",
@@ -72,7 +76,9 @@
 	}
 },
 {
+	"slug":"klasse-olivos",
 	"nombre":"Klasse - VICENTE LOPEZ",
+	"imagen": "/static/dummy/img/dealers/Sucursal_4.jpg",
 	"email": "sucursal3@gmail.com",
 	"direccion": "Av. Libertador 1802, Olivos",
 	"localidad": "Martinez",
@@ -103,7 +109,9 @@
 	}
 },
 {
+	"slug":"klasse-bonzi",
 	"nombre":"Klasse - ALDO BONZI",
+	"imagen": "/static/dummy/img/dealers/Sucursal_1.jpg",	
 	"email": "sucursal4@gmail.com",
 	"direccion": "Monseñor Bufano 8338, Aldo Bonzi",
 	"localidad": "Gerli",

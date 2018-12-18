@@ -30,25 +30,25 @@
 				"image": "/static/dummy/img/dealers/Sucursal_1.jpg",
 				"title": "Taller La Matanza",
 				"subtitle": "Monseñor Bufano, 8338, Aldo Bonzi.",
-				"url": "/dealers/precio-especial-descuentos-en-vuelos-seleccionados"
+				"url": "/dealers/klasse-bonzi"
 			},
 			{
 				"image": "/static/dummy/img/dealers/SUCURSAL_2.jpg",
 				"title": "Taller Nuñez",
 				"subtitle": "Grecia 3633, Nuñez, CABA",
-				"url": "/dealers/vola-a-mendoza-conhasta-25-de-descuento"
+				"url": "/dealers/klasse-nunez"
 			},
 			{
 				"image": "/static/dummy/img/dealers/sucursal_3.jpg",
 				"title": "Taller Devoto",
 				"subtitle": "Av. Francisco Beiro 4764, Villa Devoto, CABA",
-				"url": "/dealers/precio-especial-descuentos-en-vuelos-seleccionados"
+				"url": "/dealers/klasse-devoto"
 			},
 			{
 				"image": "/static/dummy/img/dealers/Sucursal_4.jpg",
 				"title": "Taller Vicente Lopez",
 				"subtitle": "Av Libertador 1802, Vicente Lopez, Olivos",
-				"url": "/dealers/vola-a-mendoza-conhasta-25-de-descuento"
+				"url": "/dealers/klasse-olivos"
 			}
 		]
 	}

@@ -240,22 +240,29 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .modal {
-
+	
 	.section {
 		padding: 1rem 1.5rem;
 		min-height: 100%;
+
+		p {
+			margin-bottom: 2rem;
+		}
+	}
+
+	.fixed {
+		min-height: 120px;
+	}
+
+	.scrollable {
+		overflow-y: auto;
+		max-height: calc(100% - 120px);
 	}
 
 	.delete {
 		position: absolute;
 		right: 1rem;
 		top: 1rem;
-	}
-
-	.input {
-		height: 50px!important;
-		margin: 0.5rem 0;
-		font-size: 1.25rem;
 	}
 
 	.jetsbooking-image {
@@ -265,6 +272,7 @@ input[type="checkbox"], input[type="radio"] {
 	}
 	
 	.modal-actions {
+
 		.button {
 			margin:1rem 0;
 			height: 3rem;
@@ -593,7 +601,7 @@ input[type="checkbox"], input[type="radio"] {
 			width: 100%;
 			background-color: transparent;
 		}
-		
+
 		.icon {
 			max-width: 1rem;
 			position: relative;
@@ -797,8 +805,8 @@ input[type="checkbox"], input[type="radio"] {
 			}
 			h6 {
 				margin-top: 0;
-				font-size: 1rem;
-				line-height: 1rem;
+				font-size: 0.75rem;
+				line-height: 1.25rem;
 			}
 		}
 
