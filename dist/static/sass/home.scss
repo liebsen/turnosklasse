@@ -584,7 +584,13 @@ input[type="checkbox"], input[type="radio"] {
 		border-radius: 5px;
 		text-align: center;
 		min-height: 44px;
+		
 
+		input[type=text] {
+			border:none;
+			width: 100%;
+			background-color: transparent;
+		}
 		.icon {
 			max-width: 1rem;
 			position: relative;
