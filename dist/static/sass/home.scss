@@ -362,7 +362,7 @@ input[type="checkbox"], input[type="radio"] {
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.5);	
 	background-color: #4d769f;
 	min-height: 300px;
-
+	
 	> h2 {
 		margin-bottom: 1.25rem;
 		margin-left: -0.25rem;
@@ -570,6 +570,12 @@ input[type="checkbox"], input[type="radio"] {
 			display: none!important;
 		}
 	}	
+	.other-actions {
+		position: absolute;
+		top: -15px;
+		right: 10px;		
+
+	}
 }
 
 .v-select {
