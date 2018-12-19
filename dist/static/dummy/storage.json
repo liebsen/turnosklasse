@@ -5,7 +5,7 @@
     "author": "klasse development team <devteam@klasse.com>",
     "lifespan" : "30 seconds",
     "announcement": {
-    	"message": "Estamos lanzando de un momento a otro! 🤢 😄 Mas info en <a href=https://twitter.com/search?f=tweets&vertical=default&q=klasse+turnos&src=savs target=_blank>Twitter</a>",    
+    	"message": "Bienvenido a la plataforma de turnos online exclusiva para clientes Mercedes-Benz.<br>Completa la información para solicitar un turno.",    
     	"type": "is-success"
     },
 	"ads": {
