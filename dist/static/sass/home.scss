@@ -172,6 +172,12 @@ input[type="checkbox"], input[type="radio"] {
   transition: opacity, transform 200ms ease-out;
 }
 
+
+.hero-body {
+	.columns.card {
+		margin-left: 0;
+	}
+}
 .hero {
 
 	> .has-background-white {
@@ -188,7 +194,7 @@ input[type="checkbox"], input[type="radio"] {
 			span {
 				padding-bottom: 0.3rem;
 				font-weight: 500;
-				border-bottom: 3px solid #60abc0;
+				border-bottom: 3px solid #008aff;
 			}
 		}
 	}
@@ -660,6 +666,7 @@ input[type="checkbox"], input[type="radio"] {
 		margin-left: 3rem;
 	}
 }
+
 
 @media screen and (max-width: 440px) {
 	.hero-body {
