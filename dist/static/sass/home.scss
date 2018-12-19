@@ -577,9 +577,9 @@ input[type="checkbox"], input[type="radio"] {
 	}	
 	.other-actions {
 		position: absolute;
-		top: -15px;
-		right: 10px;		
-
+		top: 5px;
+		right: 15px;
+		z-index: 9;
 	}
 }
 
@@ -631,22 +631,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .offers {
-	
-	.columns:first-child {
-		padding-top: 1.5rem;
-		margin-bottom: 0;
-
-		h1 {
-			font-size: 1rem;
-		}
-	}
-
 	.offer {
-		display: inline-block;
-		width: 100%;
-		box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2);
-  		transition: all .4s ease-in-out;
-
 		.has-text-left {
 			padding: 0.5rem;
 			padding-top: 0.25rem;	
@@ -671,29 +656,14 @@ input[type="checkbox"], input[type="radio"] {
 			filter: contrast(140%);
 			box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3);
 		}
-		.bg-inline {
+		.has-background-image {
 			min-height: 140px;
-			display: -webkit-box;
-			display: -moz-box;
-			display: -ms-flexbox;
-			display: -webkit-flex;
-			display: flex;
-			flex-direction: column;
-			-webkit-box-align: center;
-			-moz-box-align: center;
-			-ms-flex-align: center;
-			-webkit-align-items: center;
-			align-items: center;
-			-webkit-box-pack: center;
-			-moz-box-pack: center;
-			-ms-flex-pack: center;
-			-webkit-justify-content: center;				
 		}
 	}
 
 	.offer.large {
 
-		.bg-inline {
+		.has-background-image {
 			min-height: 180px;
 	
 		}		
@@ -703,11 +673,6 @@ input[type="checkbox"], input[type="radio"] {
 
 .toggle-type {
 	min-height: 55px;
-}
-.bg-inline {
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
 }
 
 .flag-arg {
@@ -720,25 +685,6 @@ input[type="checkbox"], input[type="radio"] {
 @media screen and (min-width: 1080px) {
 	.navbar-start {
 		margin-left: 3rem;
-	}
-}
-
-@media screen and (max-width: 760px) {
-	.toggle-type {
-
-		.button:first-child {
-			border-top-left-radius:5px!important;
-			border-top-right-radius:5px!important;
-			border-bottom-left-radius: 0!important;
-			border-bottom-right-radius: 0!important;
-		}
-
-		.button:last-child {
-			border-top-left-radius:0!important;
-			border-top-right-radius:0!important;
-			border-bottom-left-radius:5px!important;
-			border-bottom-right-radius:5px!important;
-		}
 	}
 }
 
