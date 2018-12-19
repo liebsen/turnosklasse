@@ -5,8 +5,8 @@
 	"email": "sucursal1@gmail.com",
 	"direccion": "Grecia 3633, Nuñez",
 	"localidad": "CABA",
-	"lat": "-58.88889999",
-	"lng": "-37.88889999",
+	"lat": "-34.546130",
+	"lng": "-58.463290",
 	"telefono": "01112311231",
 	"whatsapp": "01112311231",
 	"horarios":
@@ -47,8 +47,8 @@
 	"email": "sucursal2@gmail.com",
 	"direccion": "Av. Francisco Beiro 4764, Villa Devoto",
 	"localidad": "CABA",
-	"lat": "-58.88889999",
-	"lng": "-37.88889999",
+	"lat": "-34.599860",
+	"lng": "-58.502170",
 	"telefono": "4502-0500",
 	"whatsapp": " +541140256916",
 	"horarios":
@@ -82,8 +82,8 @@
 	"email": "sucursal3@gmail.com",
 	"direccion": "Av. Libertador 1802, Olivos",
 	"localidad": "Martinez",
-	"lat": "-58.88889999",
-	"lng": "-37.88889999",
+	"lat": "-34.507140",
+	"lng": "-58.479860",
 	"telefono": "01112311231",
 	"whatsapp": "01112311231",
 	"horarios":
@@ -115,8 +115,8 @@
 	"email": "sucursal4@gmail.com",
 	"direccion": "Monseñor Bufano 8338, Aldo Bonzi",
 	"localidad": "Gerli",
-	"lat": "-58.88889999",
-	"lng": "-37.88889999",
+	"lat": "-34.722390",
+	"lng": "-58.512010",
 	"telefono": "01112314444",
 	"whatsapp": "01112314444",
 	"horarios":
