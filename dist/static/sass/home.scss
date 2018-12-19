@@ -172,12 +172,12 @@ input[type="checkbox"], input[type="radio"] {
   transition: opacity, transform 200ms ease-out;
 }
 
-
 .hero-body {
 	.columns.card {
 		margin-left: 0;
 	}
 }
+
 .hero {
 
 	> .has-background-white {
@@ -214,6 +214,20 @@ input[type="checkbox"], input[type="radio"] {
 	.router-link-exact-active {
 		border-bottom: 3px solid white;
 		padding-bottom: 5px;
+	}
+}
+
+.board {
+	background-color: green;
+	height: 100%;
+	display: flex;
+	justify-content: center; 
+	.fa {
+		display: block;
+		font-size: 7rem;
+	}
+	.content {
+		margin: auto 0!important; 
 	}
 }
 
