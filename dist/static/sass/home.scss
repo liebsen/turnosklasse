@@ -175,6 +175,10 @@ input[type="checkbox"], input[type="radio"] {
 .hero-body {
 	.columns.card {
 		margin-left: 0;
+
+		.has-background-image {
+			min-height: 150px;
+		}
 	}
 }
 
