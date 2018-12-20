@@ -201,7 +201,7 @@ input[type="checkbox"], input[type="radio"] {
 	}
 	img {
 		min-height: 3rem;
-		padding-right: 1.75rem;
+		padding-right: 1.5rem;
 	}
 }
 
@@ -210,6 +210,12 @@ input[type="checkbox"], input[type="radio"] {
 		border-bottom: 3px solid #00adef;
 		padding-bottom: 5px;
 	}
+}
+
+.is-slogan {
+	position: relative;
+	top: 1px;
+	padding-left: 0.5rem;
 }
 
 .board {
