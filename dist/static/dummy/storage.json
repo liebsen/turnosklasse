@@ -27,7 +27,7 @@
 		"message":"Promotions valid until 12/9/18",
 		"collection": [
 			{
-				"image": "/static/dummy/img/dealers/Sucursal_1.jpg",
+				"image": "/static/dummy/img/dealers/Sucursal_4.jpg",
 				"title": "Taller La Matanza",
 				"subtitle": "Monseñor Bufano, 8338, Aldo Bonzi.",
 				"url": "/dealers/klasse-bonzi"
@@ -39,13 +39,13 @@
 				"url": "/dealers/klasse-nunez"
 			},
 			{
-				"image": "/static/dummy/img/dealers/sucursal_3.jpg",
+				"image": "/static/dummy/img/dealers/Sucursal_1.jpg",
 				"title": "Taller Devoto",
 				"subtitle": "Av. Francisco Beiro 4764, Villa Devoto, CABA",
 				"url": "/dealers/klasse-devoto"
 			},
 			{
-				"image": "/static/dummy/img/dealers/Sucursal_4.jpg",
+				"image": "/static/dummy/img/dealers/sucursal_3.jpg",
 				"title": "Taller Vicente Lopez",
 				"subtitle": "Av Libertador 1802, Vicente Lopez, Olivos",
 				"url": "/dealers/klasse-olivos"

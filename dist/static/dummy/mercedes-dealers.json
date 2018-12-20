@@ -43,7 +43,7 @@
 {
 	"slug":"klasse-devoto",
 	"nombre":"Klasse - DEVOTO",
-	"imagen": "/static/dummy/img/dealers/sucursal_3.jpg",
+	"imagen": "/static/dummy/img/dealers/Sucursal_1.jpg",	
 	"email": "mercedesbenz@atencionweb.com",
 	"direccion": "Av. Francisco Beiro 4764, Villa Devoto",
 	"localidad": "CABA",
@@ -78,7 +78,7 @@
 {
 	"slug":"klasse-olivos",
 	"nombre":"Klasse - VICENTE LOPEZ",
-	"imagen": "/static/dummy/img/dealers/Sucursal_4.jpg",
+	"imagen": "/static/dummy/img/dealers/sucursal_3.jpg",
 	"email": "mercedesbenz@atencionweb.com",
 	"direccion": "Av. Libertador 1802, Olivos",
 	"localidad": "Martinez",
@@ -111,7 +111,7 @@
 {
 	"slug":"klasse-bonzi",
 	"nombre":"Klasse - ALDO BONZI",
-	"imagen": "/static/dummy/img/dealers/Sucursal_1.jpg",	
+	"imagen": "/static/dummy/img/dealers/Sucursal_4.jpg",	
 	"email": "mercedesbenz@atencionweb.com",
 	"direccion": "Monseñor Bufano 8338, Aldo Bonzi",
 	"localidad": "Gerli",
