@@ -74,6 +74,7 @@ input[type="checkbox"], input[type="radio"] {
 
 	.scrollable {
 		overflow-y: auto;
+		overflow-x: hidden;
 		max-height: calc(100% - 120px);
 	}
 
@@ -172,16 +173,6 @@ input[type="checkbox"], input[type="radio"] {
   transition: opacity, transform 200ms ease-out;
 }
 
-.hero-body {
-	.columns.card {
-		margin-left: 0;
-
-		.has-background-image {
-			min-height: 150px;
-		}
-	}
-}
-
 .hero {
 
 	> .has-background-white {
@@ -233,6 +224,44 @@ input[type="checkbox"], input[type="radio"] {
 	.content {
 		margin: auto 0!important; 
 	}
+}
+
+#dealer_map {
+	min-height: 400px;
+	width: 100%;
+}
+
+.dealer-card {
+	min-height: 400px;
+	margin-left: 0!important;
+
+	.has-background-image {
+		min-height: 150px;
+	}
+
+	p {
+		border-top: 1px solid #f7f7f7;
+	}
+
+	.card-head {
+		padding: 1rem 0;
+		padding-left: 0.5rem;
+		padding-bottom: 0.5rem;
+	}
+
+	.card-icon {
+		font-size: 1.25rem;
+		line-height: 1.85rem;
+		display: inline-block;
+		min-width: 30px;
+		text-align: center;
+		color: #999;
+	}
+}
+
+.dealer-image-list {
+	min-height: 200px;
+	margin-bottom: 0.5rem;
 }
 
 .passengerpicker {
@@ -345,20 +374,6 @@ input[type="checkbox"], input[type="radio"] {
 	a {
 		color: #666666;
 	}
-}
-
-#dealer_map {
-	min-height: 400px;
-	width: 100%;
-}
-
-.dealer-image {
-	min-height: 400px;
-}
-
-.dealer-image-list {
-	min-height: 200px;
-	margin-bottom: 0.5rem;
 }
 
 .line-break {
@@ -571,7 +586,7 @@ input[type="checkbox"], input[type="radio"] {
 
 		.form-control {
 			position: relative;
-			font-size: 13px!important;
+			font-size: 12px!important;
 			left: 1.6rem;
 			top: 0.5rem;
 		}
