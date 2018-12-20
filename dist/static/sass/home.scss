@@ -198,7 +198,7 @@ input[type="checkbox"], input[type="radio"] {
 			span {
 				padding-bottom: 0.3rem;
 				font-weight: 500;
-				border-bottom: 3px solid #008aff;
+				border-bottom: 3px solid #00adef;
 			}
 		}
 	}
@@ -216,7 +216,7 @@ input[type="checkbox"], input[type="radio"] {
 
 .navbar-start {
 	.router-link-exact-active {
-		border-bottom: 3px solid white;
+		border-bottom: 3px solid #00adef;
 		padding-bottom: 5px;
 	}
 }
@@ -385,11 +385,13 @@ input[type="checkbox"], input[type="radio"] {
 	}
 }
 
+.remoteNme {
+	font-size: 10px;
+}
 
 .app__search {
 	padding: 1.5em;
-	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.5);	
-	background-color: #4d769f;
+	background-color: #00adef;
 	min-height: 300px;
 	
 	> h2 {
@@ -564,7 +566,7 @@ input[type="checkbox"], input[type="radio"] {
 		.form-control {
 			position: relative;
 			font-size: 13px!important;
-			left: 1.5rem;
+			left: 1.6rem;
 			top: 0.5rem;
 		}
 
