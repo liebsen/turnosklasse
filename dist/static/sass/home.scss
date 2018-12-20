@@ -389,10 +389,16 @@ input[type="checkbox"], input[type="radio"] {
 	font-size: 10px;
 }
 
+.turno-status {
+	.column {
+		margin-top: 4rem;
+	}
+}
+
 .app__search {
 	padding: 1.5em;
 	background-color: #00adef;
-	min-height: 300px;
+	min-height: 320px;
 	
 	> h2 {
 		margin-bottom: 1.25rem;
