@@ -60,11 +60,14 @@ input[type="checkbox"], input[type="radio"] {
 .modal {
 	
 	.section {
-		padding: 1rem 1.5rem;
-		min-height: 100%;
-
+		padding-top: 0;
+		padding-bottom: 0;
 		p {
 			margin-bottom: 2rem;
+		}
+
+		.has-text-left {
+			padding-top: 2rem;
 		}
 	}
 
@@ -91,7 +94,6 @@ input[type="checkbox"], input[type="radio"] {
 	}
 	
 	.modal-actions {
-
 		.button {
 			margin:1rem 0;
 			height: 3rem;
@@ -408,6 +410,10 @@ input[type="checkbox"], input[type="radio"] {
 
 .remoteNme {
 	font-size: 10px;
+}
+
+.chatrvya360 * {
+	font-family: Montserrat;
 }
 
 .turno-status {
