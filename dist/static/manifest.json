@@ -1,0 +1,13 @@
+{
+  "short_name": "Turnos Klasse",
+  "name": "Turnos Klasse",
+  "icons": [
+    {
+      "src": "/static/appletouchicon.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen"
+}
