@@ -13,12 +13,10 @@ $brown: #757763;
 $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 $light-grey: #EDEDED;
-$dark-blue: #162C7A;
-$nice-blue: #009CFF;
+$dark-blue: #60ABC0;
 
 // Update Bulma's global variables
-//$family-sans-serif: "Josefin Sans", sans-serif;
-$family-primary:"Montserrat";
+$family-sans-serif: "Montserrat", sans-serif;
 //$grey-dark: $brown;
 //$grey-light: $beige-light;
 //$primary: $purple;
@@ -27,13 +25,10 @@ $family-primary:"Montserrat";
 $button-background-color: $dark-blue;
 $button-color: white;
 $button-hover-color: white;
-$button-border-width: 2px;
-$button-border-color: white;
+$button-border-width: 0;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
-$navbar-tab-active-border-bottom-color: $nice-blue;
-$navbar-tab-active-color: $nice-blue;
 $navbar-height: 3.5rem;
 $navbar-item-img-max-height: 3rem;
 $navbar-background-color: black;
@@ -44,7 +39,7 @@ $navbar-dropdown-item-hover-color: $beige-light;
 $navbar-dropdown-arrow: white;
 $navbar-dropdown-background-color: $dark-blue;
 // Update some of Bulma's component variables
-//$body-background-color: 'white';
+$body-background-color: white;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;

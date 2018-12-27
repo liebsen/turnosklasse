@@ -39,11 +39,28 @@ hr {
 	display: none;
 }
 
-.is-expanded {
-	display: flex;
-	justify-content: center; 	
-	flex-direction: column;
-	height: 75vh;
+.is-expanded{
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-pack:center;
+    -ms-flex-pack:center;
+    justify-content:center;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    -ms-flex-direction:column;
+    flex-direction:column;
+    height:75vh
+}
+input[type=checkbox],input[type=radio]{
+    position:relative;
+    top:.15rem
+}
+.has-background-image{
+    min-height:100%;
+    background-position:50%;
+    background-size:cover;
+    background-repeat:no-repeat
 }
 
 input[type="checkbox"], input[type="radio"] {
@@ -51,40 +68,30 @@ input[type="checkbox"], input[type="radio"] {
 	top: 0.15rem;
 }
 
-.has-background-image {
-	min-height: 100%;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
 .modal {
-	
+
 	.section {
-		padding-top: 0;
-		padding-bottom: 0;
-		p {
-			margin-bottom: 2rem;
-		}
+		padding: 1rem 1.5rem;
+		min-height: 100%;
 
 		.has-text-left {
-			padding-top: 2rem;
-		}
-	}
-
-	.fixed {
-		min-height: 120px;
-	}
-
-	.scrollable {
-		overflow-y: auto;
-		overflow-x: hidden;
-		max-height: calc(100% - 120px);
+		    padding-top: 2rem;
+		}		
+		p {
+		    margin-bottom: 2rem;
+		}		
 	}
 
 	.delete {
 		position: absolute;
 		right: 1rem;
 		top: 1rem;
+	}
+
+	.input {
+		height: 50px!important;
+		margin: 0.5rem 0;
+		font-size: 1.25rem;
 	}
 
 	.jetsbooking-image {
@@ -189,9 +196,9 @@ input[type="checkbox"], input[type="radio"] {
 			font-size: 1.25rem;
 
 			span {
-				padding-bottom: 0.3rem;
-				font-weight: 500;
-				border-bottom: 3px solid #00adef;
+			    padding-bottom:.3rem;
+			    font-weight:500;
+			    border-bottom:3px solid #00adef
 			}
 		}
 	}
@@ -199,77 +206,80 @@ input[type="checkbox"], input[type="radio"] {
 
 .navbar-brand {
 	.navbar-item {
-		padding: 0;
+		padding:0
 	}
-	img {
-		min-height: 3rem;
-		padding-right: 1.5rem;
-	}
+ 	img{
+    	min-height:3rem;
+    	padding-right:1.5rem
+	}	
 }
 
 .navbar-start {
 	.router-link-exact-active {
-		border-bottom: 3px solid #00adef;
-		padding-bottom: 5px;
+	    border-bottom:3px solid #00adef;
+	    padding-bottom:5px;
 	}
 }
 
-.is-slogan {
-	position: relative;
-	top: 1px;
-	padding-left: 0.5rem;
+.is-slogan{
+    position:relative;
+    top:1px;
+    padding-left:.5rem
 }
+.board{
+    background-color:green;
+    height:100%;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-pack:center;
+    -ms-flex-pack:center;
+    justify-content:center;
 
-.board {
-	background-color: green;
-	height: 100%;
-	display: flex;
-	justify-content: center; 
-	.fa {
-		display: block;
-		font-size: 7rem;
+	.fa{
+    	display:block;
+    	font-size:7rem;
+    }
+	.content{
+    	margin:auto 0!important
 	}
-	.content {
-		margin: auto 0!important; 
-	}
 }
 
-#dealer_map {
-	min-height: 400px;
-	width: 100%;
+#dealer_map{
+    min-height:400px;
+    width:100%
 }
-
-.dealer-card {
-	min-height: 400px;
-	margin-left: 0!important;
-
-	.has-background-image {
-		min-height: 150px;
+.dealer-card{
+    min-height:400px;
+    margin-left:0!important;
+    
+    .has-background-image {
+    	min-height:150px
 	}
 
 	p {
-		border-top: 1px solid #f7f7f7;
+	    border-top:1px solid #f7f7f7
 	}
 
 	.card-head {
-		padding: 1rem 0;
-		padding-left: 0.5rem;
-		padding-bottom: 0.5rem;
+	    padding:1rem 0;
+	    padding-left:.5rem;
+	    padding-bottom:.5rem
 	}
 
 	.card-icon {
-		font-size: 1.25rem;
-		line-height: 1.85rem;
-		display: inline-block;
-		min-width: 30px;
-		text-align: center;
-		color: #999;
+	    font-size:1.25rem;
+	    line-height:2rem;
+	    display:inline-block;
+	    min-width:30px;
+	    text-align:center;
+	    color:#999
 	}
 }
 
-.dealer-image-list {
-	min-height: 200px;
-	margin-bottom: 0.5rem;
+.dealer-image-list{
+    min-height:200px;
+    margin-bottom:.5rem
 }
 
 .passengerpicker {
@@ -282,7 +292,7 @@ input[type="checkbox"], input[type="radio"] {
 	min-width: 300px;
 	margin-right: 0.75rem;
 	margin-top: 0.65rem;
-	border: 2px solid #68a6c2;
+	border: 4px solid #68a6c2;
 	cursor: pointer;
 
 	&:before { 
@@ -371,9 +381,9 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .footer {
-	margin: 0 auto;
-	background-color: transparent!important;
-	padding-top: 0!important;
+    margin:0 auto;
+    background-color:transparent!important;
+    padding-top:0!important;
 
 	.container > h4 {
 		margin-bottom: 2em;
@@ -408,35 +418,40 @@ input[type="checkbox"], input[type="radio"] {
 	}
 }
 
-.remoteNme {
-	font-size: 10px;
+.remoteNme{
+    font-size:10px
 }
-
-.chatrvya360 * {
-	font-family: Montserrat;
+.chatrvya360 {
+	* {
+    	font-family:"Montserrat";
+	}
+    h4 {
+    	margin-top: 0!important;
+    	margin-bottom: 0!important;
+    }
 }
 
 .turno-status {
-	.column {
-		margin-top: 4rem;
-	}
+	.column{
+    	margin-top:4rem;
+    }
 }
 
 .app__search {
-	padding: 1.5em;
-	background-color: #00adef;
-	min-height: 320px;
-	
+    padding:1.5em;
+    background-color:#00adef;
+    min-height:320px;
+
 	> h2 {
-		margin-bottom: 1.25rem;
-		margin-left: -0.25rem;
+	    margin-bottom:1.25rem;
+	    margin-left:-.25rem;
 	}
 	
 	ul {
 		line-height: 1rem;
 		position: absolute;
-		left: 2rem;
-		top: 0.25rem;
+		left: 2.15rem;
+		top: 0.35rem;
 	}
 	
 	li {
@@ -448,76 +463,79 @@ input[type="checkbox"], input[type="radio"] {
 	}
 	
 	.column {
-		position: relative;
-		padding-top: 0.35rem;
-		padding-bottom: 0.35rem;
-		padding-right: 0.35rem;
-		padding-left: 0.35rem;
-	}
-	
-	.disabled {
-		opacity: 0.5;
+	    position:relative;
+	    padding:.35rem
 	}
 
+	.disabled{
+	    opacity:.5
+	}
+	
 	.toggle-type {
-		
+		min-height: 55px;
 		padding: 1.1rem;
 
 		.button {
-			z-index: 2;
-			line-height: 1.75rem;
-			border-radius: 0;
-		}
-	
-		.button:first-child {
-			z-index: 1;
-			border-top-left-radius: 5px;
-			border-bottom-left-radius:5px;
-		}
+		    z-index:2;
+		    line-height:2rem;
+		    border-radius:0;
 
-		.button:last-child {
-			border-top-right-radius: 5px;
-			border-bottom-right-radius:5px;
-		}
+			&:first-child {
+			    z-index:1;
+			    border-top-left-radius:5px;
+			    border-bottom-left-radius:5px
+			}
+
+			&:last-child{
+			    border-top-right-radius:5px;
+			    border-bottom-right-radius:5px
+			}
+
+			&:not(.is-white) {
+				background-color: #162c7a;
+			}
+		}		
 	}
 
+
 	.button {
-		border-radius: 5px;
-		text-align: center;
-		min-height: 44px;
-		
-		input[type=text],
+	    border-radius:5px;
+	    text-align:center;
+	    min-height:44px;
+
 		input[type=email],
-		input[type=phone] {
-			border:none;
-			width: 100%;
-			background-color: transparent;
+		input[type=phone],
+		input[type=text]{
+		    border:none;
+		    width:100%;
+		    background-color:transparent;
 		}
 
 		.icon {
-			max-width: 1rem;
-			position: relative;
-			left: 0.25rem;
-			top: -0.3rem;
+		    max-width:1rem;
+		    position:relative;
+		    margin-left:0!important;
+		    left:0;
+		    top:-.3rem
 		}
 
 		span:nth-child(1n) {
 	  		page-break-after: always;
 	  		break-after: always;
 		}			
+
+	}
+
+	.button.accepted{
+	    background-color:#90ee90
 	}
 
 	.button.accepted {
-		background-color: lightgreen;
-
-		input[type=text],
+		.has-text-success,
 		input[type=email],
-		input[type=phone] {
-			color: green!important;
-		}
-
-		.has-text-success {
-			color: green!important;	
+		input[type=phone],
+		input[type=text]{
+	    	color:black!important
 		}
 	}
 
@@ -530,8 +548,7 @@ input[type="checkbox"], input[type="radio"] {
 	}
 
 	.button.is-large {
-		/*padding: 20px 30px;*/
-		font-size: .85rem;
+		font-size: .75rem;
 	}
 	
 	.button.is-fullwidth {
@@ -540,6 +557,18 @@ input[type="checkbox"], input[type="radio"] {
 		justify-content: flex-start;
 		padding-right: 0;
 		position: relative;
+	}
+
+	.button.is-large{
+ 	   font-size:.85rem
+	}
+
+	.button.is-fullwidth{
+	    -webkit-box-pack:start;
+	    -ms-flex-pack:start;
+	    justify-content:flex-start;
+	    padding-right:0;
+	    position:relative
 	}
 
 	.datepicker {
@@ -551,22 +580,11 @@ input[type="checkbox"], input[type="radio"] {
 		}
 
 		.datepicker-popup {
-
-			@extend %bubblepointer;
-
-			box-shadow: none;
-			overflow: inherit;
-			overflow-y: visible;
-
-			&:before { 
-				@extend %bubblepointerbefore;
-			}
-
-			&:after {
-				@extend %bubblepointerafter;
-			}
-
+		    box-shadow:none;
+		    overflow:inherit;
+		    overflow-y:visible
 		}
+
 
 		.calendar-date {
 			font-size: 0.85rem;
@@ -588,78 +606,66 @@ input[type="checkbox"], input[type="radio"] {
 		}
 	}
 
-	.v-select {
 
-		position: absolute;
-		display: inline-block;
-		width: 97%;
-		top: 0.35rem;
-		height: 44px;
+	.v-select{
+	    position:absolute;
+	    display:inline-block;
+	    width:97%;
+	    top:.35rem;
+	    height:44px;
 
-		.form-control {
-			position: relative;
-			font-size: 12px!important;
-			left: 1.6rem;
-			top: 0.5rem;
+		.form-control{
+		    position:relative;
+		    font-size:12px!important;
+		    left:1.6rem;
+		    top:0.95rem;
 		}
 
-		.dropdown-menu {
-			box-shadow: none!important;
-			max-height: 300px!important;
-			@extend %bubblepointer;
-
-			&:before { 
-				@extend %bubblepointerbefore;
-			}
-
-			&:after {
-				@extend %bubblepointerafter;
-			}
+		.dropdown-menu{
+		    box-shadow:none!important;
+		    max-height:300px!important
 		}
-		
+
 		* {
-			cursor: pointer;
-		}
-		
-		.selected {
-			margin-left: 1.8rem;
-			margin-top: 0.8rem;
-			min-width: 180px;
-			font-size: 0.85rem;
-			color: #7a7a7a;
-			background-color: white;
+		    cursor:pointer
 		}
 
-		.open-indicator {
-			display: none!important;
+		.selected{
+		    margin-left:1.8rem;
+		    margin-top:.8rem;
+		    min-width:180px;
+		    font-size:.85rem;
+		    color:#7a7a7a;
+		    background-color:#fff
 		}
-	}	
-	.other-actions {
-		position: absolute;
-		top: 7px;
-		right: 12px;
-		z-index: 9;
+
+		.open-indicator{
+			display:none!important
+		}
 	}
+
+	.other-actions{
+	    position:absolute;
+	    top:6px;
+	    right:12px;
+	    z-index:9
+	}	
 }
 
 .v-select {
-	.dropdown-toggle {
-		width: 100%;
-		border: none;
-
-		.vs__actions {
-			display: none;
-		}
+	.dropdown-toggle{
+	    width:100%;
+	    border:none;
+		
+		.vs__actions{
+	    	display:none
+		}    
 	}
-	
-	.dropdown-menu {
-		min-width: 0px !important;
+	.dropdown-menu{
+	    min-width:0!important
 	}
 }
 
-.dropdown.v-select {
-	display: flex;
-}
 
 .shadower {
 	z-index: 1;
@@ -685,41 +691,35 @@ input[type="checkbox"], input[type="radio"] {
 	opacity: 1;
 }
 
-.ad {
-	/*height: 299px;*/
-}
-
 .dealers {
-	.dealer {
-		transition: all .4s ease-in-out;
+	
+	.dealer{
+    	transition:all .4s ease-in-out
 
-		&:hover {
-			filter: contrast(140%);
+		> :hover{
+		    -webkit-filter:contrast(140%);
+		    filter:contrast(140%)
 		}
-		.has-background-image {
-			min-height: 200px;
+
+		.has-background-image{
+		    min-height:200px
 		}
 	}
 }
 
 
-.toggle-type {
-	min-height: 55px;
+.has-background-image {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
-.flag-arg {
-	background-image: url(/static/img/flags/flag-ar.png);
-	width: 26px;
-	height: 17px;
-	display: inline-block;	
-}
 
-@media screen and (min-width: 1080px) {
-	.navbar-start {
-		margin-left: 3rem;
-	}
+@media screen and (min-width:1080px){
+    .navbar-start{
+        margin-left:3rem
+    }
 }
-
 
 @media screen and (max-width: 440px) {
 	.hero-body {

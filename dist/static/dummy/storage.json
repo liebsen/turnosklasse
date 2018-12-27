@@ -1,55 +1,67 @@
 {
-    "title": "KLASSE",
-    "description": "Mas que un concesionario",
     "version": "1.0.0",
-    "author": "klasse development team <devteam@klasse.com>",
+    "endpoint":"https://automovilshop.api/",
+    "title": "Turnos Klasse",
+    "description": "La plataforma web de turnos online de Klasse Concesionario Oficial Mercedes-Benz",
+    "author": "Overlemon <overlemonsoft@gmail.com>",
     "lifespan" : "30 seconds",
+    "header" : {
+    	"logo" : "/static/img/logo.jpeg",
+		"text" : "Klasse",
+		"subtext" : "Cigliutti Guerini",
+		"options" : [{
+			"link":"/",
+			"text":"Turnos"
+		},{
+			"link":"/dealers",
+			"title":"Conozca nuestros concesionarios",
+			"text":"Sucursales"
+		}]
+	},
+    "footer": {
+    	"text" : "2018 Klasse · Cigliutti Guerini",
+    	"subtext" : "Todos los derechos reservados",
+    	"options": [{
+    		"text" : "Herramientas",
+    		"options" : [{
+    			"link":"/",
+    			"text":"Turnos"
+    		},{
+    			"link":"/dealers",
+    			"title":"Conozca nuestros concesionarios",
+    			"text":"Sucursales"
+    		}]
+    	},{
+    		"text" : "Empresa",
+    		"options" : [{
+    			"link":"#",
+    			"target":"modal-terminos",
+    			"text":"Términos y condiciones"
+    		}]
+    	},{
+    		"text" : "Redes",
+    		"options" : [{
+    			"link":"https://facebook.com/KlasseMercedesBenz",
+    			"faicon":"facebook",
+    			"is_blank": true,
+    			"title":"Seguinos en Facebook!",
+    			"text":"/KlasseMercedesBenz"
+    		},{
+    			"link":"https://instagram.com/klassemb",
+    			"faicon":"instagram",
+    			"is_blank": true,
+    			"title":"Seguinos en Instagram!",
+    			"text":"@klassemb"
+    		}]
+    	}
+    ]},
     "announcement": {
     	"message": "Bienvenido a la plataforma de turnos online exclusiva para clientes <strong>Mercedes-Benz</strong>.<br>Completa la información para solicitar un turno.",    
     	"type": "is-success"
     },
-	"ads": {
-		"message":"All promotions ar valid until 9/12",
-		"collection": [
-			{
-				"code": "es",
-				"image": "/static/dummy/img/ad-sample.png",
-				"url": "/ads/vuelos-a-mendoza-boca-river"
-			},
-			{
-				"code": "es",
-				"image": "/static/dummy/img/ad-sample.png",
-				"url": "/ads/vuelos-a-mendoza-boca-river"
-			}
-		]
-	},
-	"offers": {
-		"message":"Promotions valid until 12/9/18",
-		"collection": [
-			{
-				"image": "/static/dummy/img/dealers/Sucursal_4.jpg",
-				"title": "Taller La Matanza",
-				"subtitle": "Monseñor Bufano, 8338, Aldo Bonzi.",
-				"url": "/dealers/klasse-bonzi"
-			},
-			{
-				"image": "/static/dummy/img/dealers/SUCURSAL_2.jpg",
-				"title": "Taller Nuñez",
-				"subtitle": "Grecia 3633, Nuñez, CABA",
-				"url": "/dealers/klasse-nunez"
-			},
-			{
-				"image": "/static/dummy/img/dealers/Sucursal_1.jpg",
-				"title": "Taller Devoto",
-				"subtitle": "Av. Francisco Beiro 4764, Villa Devoto, CABA",
-				"url": "/dealers/klasse-devoto"
-			},
-			{
-				"image": "/static/dummy/img/dealers/sucursal_3.jpg",
-				"title": "Taller Vicente Lopez",
-				"subtitle": "Av Libertador 1802, Vicente Lopez, Olivos",
-				"url": "/dealers/klasse-olivos"
-			}
-		]
-	}
+    "turnosklasse": {
+    	"procesando":"Estamos procesando su solicitud",
+    	"exito":"Gracias por elegirnos. Tu solicitud fue procesada con éxito, en breve estaremos confirmando la misma.",
+    	"error":"Hubo un error. El servidor no respondió como se esperaba. Vuelva a intentarlo en unos minutos."
+    }
 }
