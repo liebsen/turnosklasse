@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "endpoint":"https://automovilshop.api/",
+    "endpoint":"https://api.automovilshop.com/",
     "title": "Turnos Klasse",
     "description": "La plataforma web de turnos online de Klasse Concesionario Oficial Mercedes-Benz",
     "author": "Overlemon <overlemonsoft@gmail.com>",
