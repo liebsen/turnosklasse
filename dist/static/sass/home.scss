@@ -30,7 +30,6 @@
 	width: 0;
 }
 
-
 hr {
 	background-color: transparent!important;
 	border-top: .1rem solid #dbdbdb!important;
@@ -184,6 +183,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .hero {
+	overflow-x: hidden;
 
 	> .has-background-white {
 
@@ -439,7 +439,8 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .app__search {
-    padding:1.5em;
+    padding:2em;
+    overflow-x: hidden;
     background-color:#00adef;
     min-height:320px;
 
@@ -776,6 +777,7 @@ input[type="checkbox"], input[type="radio"] {
 		padding: 2rem 0.75rem!important;
 	}
 	.app__search {
+		padding:1.5em;
 		margin-left: -1rem;
 		margin-right: -1rem;
 	}
