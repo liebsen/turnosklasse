@@ -768,7 +768,6 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 @media screen and (max-width: 440px) {
-
 	.d-hotline {
 		display: table;
 	}
@@ -785,7 +784,7 @@ input[type="checkbox"], input[type="radio"] {
 		margin-left: -1rem;
 		margin-right: -1rem;
 	}
-	#mobileBubble {
+	#mobileBubble, .msgInputBox {
 		display: none;
 	}
 }
