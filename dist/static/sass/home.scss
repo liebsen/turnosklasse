@@ -658,8 +658,7 @@ input[type="checkbox"], input[type="radio"] {
 .v-select {
 	.dropdown-toggle{
 	    width:100%;
-	    border:none;
-		
+	    border:none!important;
 		.vs__actions{
 	    	display:none
 		}    
