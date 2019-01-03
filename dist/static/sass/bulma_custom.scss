@@ -3,8 +3,7 @@
 @charset "utf-8";
 
 // Import a Google Font
-@import url('https://fonts.googleapis.com/css?family=Montserrat:500,700');
-//@import url('https://fonts.googleapis.com/css?family=Gochi+Hand:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,700');
 
 // Set your brand colors
 $purple: #8A4D76;
@@ -35,6 +34,7 @@ $navbar-background-color: black;
 $navbar-item-color: white;
 $navbar-item-hover-color: $beige-light;
 $navbar-item-active-color: $beige-light;
+$navbar-item-hover-background-color: $dark-blue;
 $navbar-dropdown-item-hover-color: $beige-light;
 $navbar-dropdown-arrow: white;
 $navbar-dropdown-background-color: $dark-blue;

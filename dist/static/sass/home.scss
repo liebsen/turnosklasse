@@ -30,6 +30,7 @@
 	width: 0;
 }
 
+
 hr {
 	background-color: transparent!important;
 	border-top: .1rem solid #dbdbdb!important;
@@ -715,6 +716,50 @@ input[type="checkbox"], input[type="radio"] {
 	background-size: cover;
 }
 
+.animated {
+    animation-duration: .4s;
+    animation-fill-mode: both;
+}
+
+@keyframes zoomIn{
+	from{
+		opacity:0;
+		transform:scale3d(.3,.3,.3)
+	}
+	50%{
+		opacity:1
+	}
+}
+
+.zoomIn {
+    animation-name: zoomIn;
+}
+
+.d-hotline {
+	display: none;
+	background-color: #03a700 !important;
+	color: #ffffff !important;
+	border-color: transparent #03a700 transparent transparent;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    right: 5px;
+    bottom: 6px;
+    z-index: 9995;
+    box-shadow: 0 5px 4px 0 rgba(0,0,0,.26);
+    cursor: pointer;
+    border-radius: 34px 8px 34px 34px;
+    color: #FFF;
+    padding: 7px 10px 10px;
+}
+
+.chat-content {
+    font-size: 35px;
+	position: absolute;
+	top: 3px;
+	left: 15px;
+    color: white;
+}
 
 @media screen and (min-width:1080px){
     .navbar-start{
@@ -723,7 +768,23 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 @media screen and (max-width: 440px) {
+
+	.d-hotline {
+		display: table;
+	}
 	.hero-body {
 		padding: 2rem 0.75rem!important;
+	}
+	.app__search {
+		margin-left: -1rem;
+		margin-right: -1rem;
+	}
+	.board {
+		margin-top: -1.5rem;
+		margin-left: -1rem;
+		margin-right: -1rem;
+	}
+	#mobileBubble {
+		display: none;
 	}
 }

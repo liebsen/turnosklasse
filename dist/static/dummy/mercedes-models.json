@@ -703,55 +703,47 @@
 	"vehicle_type":"vito"
 },
 {
-	"title":"109 CDI",
+	"title":"111CDI Furgón Versión 1 con AA",
 	"vehicle_type":"vito"
 },
 {
-	"title":"Tourer",
+	"title":"111CDI Furgón Versión 2 con AA",
 	"vehicle_type":"vito"
 },
 {
-	"title":"110 CDI",
+	"title":"111CDI Furgón Versión 1 con AA - Nueva Versión",
 	"vehicle_type":"vito"
 },
 {
-	"title":"111 CDI",
+	"title":"111CDI Furgón Versión 2 con AA - Nueva Versión",
 	"vehicle_type":"vito"
 },
 {
-	"title":"115 CDI",
+	"title":"111CDI Furgón Mixto con Aire Acondicionado",
 	"vehicle_type":"vito"
 },
 {
-	"title":"116 CDI",
+	"title":"111CDI Furgón Mixto con AA - Nueva Versión",
 	"vehicle_type":"vito"
 },
 {
-	"title":"119",
+	"title":"111CDI Furgón Plus con Aire Acondicionado",
 	"vehicle_type":"vito"
 },
 {
-	"title":"119 BlueTEC",
+	"title":"119Combi MT",
 	"vehicle_type":"vito"
 },
 {
-	"title":"120 CDI",
+	"title":"119Tourer MT",
 	"vehicle_type":"vito"
 },
 {
-	"title":"121 CDI",
+	"title":"121Tourer AT",
 	"vehicle_type":"vito"
 },
 {
-	"title":"122",
-	"vehicle_type":"vito"
-},
-{
-	"title":"123",
-	"vehicle_type":"vito"
-},
-{
-	"title":"126",
+	"title":"121Tourer AT",
 	"vehicle_type":"vito"
 },
 {
@@ -923,6 +915,86 @@
 	"vehicle_type":"sprinter"
 },
 {
+	"title":"411CDI Street Furgón 3250 TN Versión 1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"411CDI Street Furgón 3250 TN Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3250 TN Versión 1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3250 TN Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TN Versión 1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TN Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TE Versión 1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TE Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 4325 TE Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"515CDI Furgón 4325 TE Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"515CDI Furgón 4325 XL TE Versión 2 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3250 TN Mixto 4+1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TN Mixto 4+1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TE Mixto 4+1 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Furgón 3665 TE Mixto 4+1 Silver Edition",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Chasis 3665 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"515CDI Chasis 4325 con AA",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Combi 3665 9+1 TN",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"415CDI Combi 3665 15+1 TE",
+	"vehicle_type":"sprinter"
+},
+{
+	"title":"515CDI Minibus 4325 19+1",
+	"vehicle_type":"sprinter"
+},
+{
 	"title":"Actros",
 	"vehicle_type":"truck"
 },
@@ -949,4 +1021,10 @@
 {
 	"title":"Axor",
 	"vehicle_type":"truck"
+},
+{
+	"title":"Accelo",
+	"vehicle_type":"truck"
 }]
+
+
