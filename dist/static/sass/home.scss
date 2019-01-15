@@ -383,15 +383,26 @@ input[type="checkbox"], input[type="radio"] {
 
 .footer {
     margin:0 auto;
-    background-color:transparent!important;
-    padding-top:0!important;
+    margin-top: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: linear-gradient(180deg, #f1f1f1, #fff)!important;
 
 	.container > h4 {
 		margin-bottom: 2em;
 	}
+	
+	strong {
+		color: #333;
+		text-shadow: 0 0 2px rgba(255,255,255,0.1);
+	}
 
 	a {
-		color: #666666;
+		color: #999;
+	}
+
+	span {
+		color: #999;	
 	}
 }
 
@@ -442,6 +453,10 @@ input[type="checkbox"], input[type="radio"] {
     padding:2em;
     background-color:#00adef;
     min-height:320px;
+	
+	p {
+		text-shadow:0 0 3px rgba(0,0,0,0.5);
+	}
 
 	> h2 {
 	    margin-bottom:1.25rem;
