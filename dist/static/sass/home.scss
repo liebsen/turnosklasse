@@ -693,17 +693,15 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .dealers {
-	
 	.dealer{
-    	transition:all .4s ease-in-out
-
-		> :hover{
-		    -webkit-filter:contrast(140%);
-		    filter:contrast(140%)
+		.has-background-image{
+			transition:all .4s ease-in-out;
+		    min-height:200px
 		}
 
-		.has-background-image{
-		    min-height:200px
+		.has-background-image:hover{
+		    -webkit-filter:contrast(140%);
+		    filter:contrast(140%)
 		}
 	}
 }
