@@ -790,6 +790,16 @@ input[type="checkbox"], input[type="radio"] {
 		margin-left: -1rem;
 		margin-right: -1rem;
 	}
+	.navbar-brand {
+		.navbar-item {
+			span {
+				font-size: 1rem!important;
+			}
+			.is-slogan {
+				font-size: 0.75rem!important;	
+			}
+		}
+	}
 	#mobileBubble, .msgInputBox {
 		display: none;
 	}
