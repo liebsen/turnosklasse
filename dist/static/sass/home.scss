@@ -94,7 +94,7 @@ input[type="checkbox"], input[type="radio"] {
 		font-size: 1.25rem;
 	}
 
-	.jetsbooking-image {
+	.turnosklasse-image {
 		margin: 0 auto;
 		width: 10rem;
 		height: 5rem;
@@ -196,7 +196,7 @@ input[type="checkbox"], input[type="radio"] {
 			margin: 0;
 			font-size: 1.25rem;
 
-			span {
+			>:first-child {
 			    padding-bottom:.3rem;
 			    font-weight:500;
 			    border-bottom:3px solid #00adef
